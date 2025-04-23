@@ -9,7 +9,6 @@ Welcome to **Movies Album**, a dynamic and interactive web application built wit
 - **TMDb API**: Source of movie data, providing detailed information on thousands of movies
 - **Debounce**: Optimized search functionality to prevent excessive API calls while typing
 - **CSS**: For styling and layout
-- **Axios**: For handling HTTP requests
 
 ### **🌟 Features:**
 
