@@ -36,3 +36,5 @@ Navigate to the project directory and install the required dependencies using np
 Run the development server to launch the app locally:
 
 Npm run dev
+
+![image alt](https://github.com/wilmelinares/Movies-allbum/blob/bcbf185dd2ba8c5ca507c79ea59589d0c251fb16/movie1.png)
